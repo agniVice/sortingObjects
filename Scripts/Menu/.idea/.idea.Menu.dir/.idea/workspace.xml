@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7d4061f-a684-4916-9481-5c23fbf79fdc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Graphic/Custom_TintedUIBlur.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Graphic/Custom_TintedUIBlur.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Graphic/TintedUIBlur.shader" beforeDir="false" afterPath="$PROJECT_DIR$/../../Graphic/TintedUIBlur.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prefabs/Game/Levels/Level1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prefabs/Game/Levels/Level1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prefabs/Game/Levels/Level2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prefabs/Game/Levels/Level2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2jEzmcikhLgqVlySRr84lkIX0gm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="dotNetConsole" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7d4061f-a684-4916-9481-5c23fbf79fdc" name="Default Changelist" comment="" />
+      <created>1720967190630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720967190630</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
